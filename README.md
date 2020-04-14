@@ -10,3 +10,11 @@ You can find thhe direct .exe on the appication folder.
 \ == /
 
 You can find the source code on the source folder. (Contributions are accepted with pleasure :) )
+
+
+ADDITIONAL
+----------
+
+How to convert your python program to an .exe file
+1. Install pyinstaller (Terminal Command = pip install pyinstaller)
+2. Follow this syntex (pyinstaller <Your Python File> -F -w)
